@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="label_of_day">День недели: </string>
+    <string name="descriptions">Описание: </string>
+    <string name="иет1">1</string>
+    <string name="btn2">2</string>
+    <string name="btn3">3</string>
+    <string name="title_add">Введите заголовок:</string>
+    <string name="addDesc">Введите описание:</string>
+    <string name="addnote">Добавить заметку</string>
+
+
+    <string-array name="spinnerDay">
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+        <item>Воскресенье</item>
+
+    </string-array>
+</resources>
